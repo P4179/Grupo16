@@ -9,3 +9,5 @@ conflicto marsache
 
 modificación marsache: continuación con el ciclo de trabajo
 modificación pedro: se continúa...
+
+Nueva funcionalidad añadida: customización de los colores del juego.
